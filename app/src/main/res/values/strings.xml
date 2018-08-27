@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVP</string>
+    <string name="load_test_data">加载10W条数据</string>
+    <string name="load_net_data">加载网络数据</string>
+</resources>
